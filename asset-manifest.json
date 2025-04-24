@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/cicd-tutorial/static/css/main.f855e6bc.css",
-    "main.js": "/cicd-tutorial/static/js/main.6b98cc32.js",
+    "main.js": "/cicd-tutorial/static/js/main.82418e3d.js",
     "static/js/453.d0878aba.chunk.js": "/cicd-tutorial/static/js/453.d0878aba.chunk.js",
     "static/media/logo.svg": "/cicd-tutorial/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/cicd-tutorial/index.html",
     "main.f855e6bc.css.map": "/cicd-tutorial/static/css/main.f855e6bc.css.map",
-    "main.6b98cc32.js.map": "/cicd-tutorial/static/js/main.6b98cc32.js.map",
+    "main.82418e3d.js.map": "/cicd-tutorial/static/js/main.82418e3d.js.map",
     "453.d0878aba.chunk.js.map": "/cicd-tutorial/static/js/453.d0878aba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.6b98cc32.js"
+    "static/js/main.82418e3d.js"
   ]
 }
