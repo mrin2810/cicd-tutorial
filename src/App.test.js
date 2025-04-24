@@ -1,10 +1,8 @@
 import { render, screen } from "@testing-library/react";
 import App from "./App";
 
-test("renders p tag", () => {
+test("renders p tag with text: This is changed again!", () => {
   render(<App />);
-  const pTag = screen.getByText(
-    /I am trying to see how I can use manual trigger to build github pages/i
-  );
+  const pTag = screen.getByText(/This is changed again!/i);
   expect(pTag).toBeInTheDocument();
 });

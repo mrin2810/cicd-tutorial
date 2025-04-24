@@ -6,9 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          I am trying to see how I can use manual trigger to build github pages
-        </p>
+        <p>This is changed again!</p>
       </header>
     </div>
   );
