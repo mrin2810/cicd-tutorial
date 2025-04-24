@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>This is changed again!</p>
+        <h1>Welcome to CICD deployed React App on gh-pages</h1>
       </header>
     </div>
   );
