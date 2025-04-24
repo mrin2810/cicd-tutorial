@@ -1,8 +1,10 @@
-import { render, screen } from '@testing-library/react';
-import App from './App';
+import { render, screen } from "@testing-library/react";
+import App from "./App";
 
-test('renders learn react link', () => {
+test("renders p tag", () => {
   render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+  const pTag = screen.getByText(
+    /I am trying to see how I can use manual trigger to build github pages/i
+  );
+  expect(pTag).toBeInTheDocument();
 });
